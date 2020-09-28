@@ -1,6 +1,6 @@
 # Cyber Theme
 
-Cyber theme is a theme for vim/neovim
+Cyber theme is a theme for vim or neovim it has a cyber punk feel and it has a lot of contrast
 
 ## Screen Shots
 ![cyber theme with split screens](/images/cyber-screenshot.png)
@@ -10,7 +10,7 @@ Cyber theme is a theme for vim/neovim
 ## Installation
 
 #### linux users
-To install for Neovim you can simple download or clone it to your ~/.config/nvim
+To install for Neovim you can simple download or clone it to your `~/.config/nvim/colors`
 folder
 
 ## Usage
