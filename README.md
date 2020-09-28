@@ -4,10 +4,8 @@ Cyber theme is a theme for vim/neovim
 
 ## Screen Shots
 ![cyber theme with split screens](/images/cyber-screenshot.png)
-Format: ![Alt Text](url)
 
 ![GitHub Logo](/images/cyber-autocomplete.png)
-Format: ![Alt Text](url)
 
 ## Installation
 
