@@ -13,7 +13,7 @@ let g:colors_name = "cyber"
 
 
 " Define reusable colorvariables.
-let s:bg="#030b24"
+let s:bg="#030a1f"
 
 let s:fg="#bed9eb"
 let s:fg2="#1bebeb"
