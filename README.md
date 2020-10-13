@@ -15,7 +15,7 @@ folder
 
 ## Usage
 
-in vim you can change the color scheme via the colorscheme commad 
+in vim you can change the color scheme via the colorscheme command 
 ```vim
 :colorscheme cyber
 ```
